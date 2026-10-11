@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "items": [
+    {
+      "id": "boas-vindas",
+      "date": "2026-10-11",
+      "type": "new",
+      "title": "Novo launcher do LyriusRP!",
+      "summary": "Agora o modpack se atualiza sozinho: é só clicar em JOGAR. Os mods opcionais ficam em Perfis → Mods.",
+      "image": "images/boas-vindas.png"
+    },
+    {
+      "id": "exemplo-evento",
+      "date": "2026-12-15",
+      "type": "event",
+      "title": {
+        "pt-BR": "Aniverssario do PatoPenado",
+        "en": "PatoPenado's Birthday",
+        "es": "Cumpleaños de PatoPenado"
+      },
+      "summary": {
+        "pt-BR": "Deixe seu recado para o seu desenvolvedor favorito XP.",
+        "en": "Leave a message for your favorite XP developer.",
+        "es": "Deja un mensaje para tu desarrollador favorito de XP."
+      },
+      "image": "images/patopenado-birthday.png"
+    }
+  ]
+}
