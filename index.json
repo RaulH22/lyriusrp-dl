@@ -4,7 +4,7 @@
     {
       "id": "lyriusrp",
       "name": "LyriusRP",
-      "manifest": "https://dl.lyriusrp.com/lyriusrp/manifest.json",
+      "manifest": "https://raulh22.github.io/lyriusrp-dl/lyriusrp/manifest.json",
       "minecraftVersion": "1.21.4",
       "loader": {
         "type": "fabric",
